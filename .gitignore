@@ -2,3 +2,4 @@ experiments/
 convert-to-csv.py
 wikiQA-train.txt
 node_modules
+.env
